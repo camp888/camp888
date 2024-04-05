@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![codewars](https://www.codewars.com/users/camp888/badges/large)](https://www.codewars.com/users/camp888) 
+
+<br />
+
 <img align="left" src="https://tenor.com/ru/view/patrick-star-dumb-duh-gif-13669009.gif" width="300" height="200" /> 
 
 ```kotlin
@@ -31,7 +35,7 @@ val me = SoftwareEngineer(
 <br />
 
 
-[![codewars](https://www.codewars.com/users/camp888/badges/large)](https://www.codewars.com/users/camp888)  
+
 
 <br />
 
