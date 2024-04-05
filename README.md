@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://tenor.com/ru/view/patrick-star-dumb-duh-gif-13669009.gif" align="left" width="360" height="180"/> 
+<img src="https://tenor.com/ru/view/patrick-star-dumb-duh-gif-13669009.gif" align="left" width="300" height="180"/> 
 
 ```kotlin
 val me = SoftwareEngineer(
