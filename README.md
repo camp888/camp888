@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-```kotlin
+<code>
 val me = SoftwareEngineer(
   languages = arrayOf(kotlin, java),
   frameworks = arrayOf(
@@ -24,7 +24,7 @@ val me = SoftwareEngineer(
   db = postgresql,
   architecture = arrayOf(clean, mv*)
 )
-```
+</code>
 
 <img align="right" src="https://tenor.com/ru/view/patrick-star-dumb-duh-gif-13669009.gif" width="300" height="240" />
 
