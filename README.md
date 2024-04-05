@@ -14,17 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align = "left" width="300">
 ```kotlin
 val me = SoftwareEngineer(
   languages = arrayOf(kotlin, java),
   frameworks = arrayOf(
-                android(jetpack, services, managers),
-                spring(data, security, thymeleaf)
+     android(jetpack, services, managers),
+     spring(data, security, thymeleaf)
   ),
   db = postgresql,
   architecture = arrayOf(clean, mv*)
 )
 ```
+</p>
 
 <img align="right" src="https://tenor.com/ru/view/patrick-star-dumb-duh-gif-13669009.gif" width="300" height="240" />
 
