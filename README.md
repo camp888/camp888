@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<code>
+<code class="language-kotlin">
 val me = SoftwareEngineer(
   languages = arrayOf(kotlin, java),
   frameworks = arrayOf(
