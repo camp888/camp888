@@ -23,7 +23,7 @@ val me = SoftwareEngineer(
 )
 ```
 
-<img src="https://tenor.com/ru/view/patrick-star-dumb-duh-gif-13669009.gif" width="80" height="80" />
+<img src="https://tenor.com/ru/view/patrick-star-dumb-duh-gif-13669009.gif" width="300" height="240" />
 
 
 [![codewars](https://www.codewars.com/users/camp888/badges/large)](https://www.codewars.com/users/camp888)  
