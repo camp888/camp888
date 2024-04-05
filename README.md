@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-```kotlin
+<img align="right" src="https://tenor.com/ru/view/patrick-star-dumb-duh-gif-13669009.gif" width="300" height="240" /> ```kotlin
 val me = SoftwareEngineer(
   languages = arrayOf(kotlin, java),
   frameworks = arrayOf(
@@ -26,7 +26,7 @@ val me = SoftwareEngineer(
 )
 ```
 
-<img align="right" src="https://tenor.com/ru/view/patrick-star-dumb-duh-gif-13669009.gif" width="300" height="240" />
+
 
 
 [![codewars](https://www.codewars.com/users/camp888/badges/large)](https://www.codewars.com/users/camp888)  
