@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+- 🔭 Deep diving into Kotlin and computer science fundamentals
+- ⚡ Currently working on simple chess engine to play games with friends
 
 
 ```kotlin
