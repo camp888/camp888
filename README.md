@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img align="left" src="https://tenor.com/ru/view/patrick-star-dumb-duh-gif-13669009.gif" width="300" height="240" /> 
+
 ```kotlin
 val me = SoftwareEngineer(
   languages = arrayOf(kotlin, java),
