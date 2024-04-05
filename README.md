@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 
 ![Header](./banner.png)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camp888&layout=donut)](https://github.com/camp888/github-readme-stats)
-
 [![codewars](https://www.codewars.com/users/camp888/badges/large)](https://www.codewars.com/users/camp888)  
