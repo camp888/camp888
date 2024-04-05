@@ -17,13 +17,16 @@ Here are some ideas to get you started:
 ```kotlin
 val me = SoftwareEngineer(
   languages = arrayOf(kotlin, java),
-  frameworks = arrayOf(android(jetpack, services, managers), spring(data, security, thymeleaf)),
+  frameworks = arrayOf(
+                android(jetpack, services, managers),
+                spring(data, security, thymeleaf)
+  ),
   db = postgresql,
   architecture = arrayOf(clean, mv*)
 )
 ```
 
-<img src="https://tenor.com/ru/view/patrick-star-dumb-duh-gif-13669009.gif" width="300" height="240" />
+<img align="right" src="https://tenor.com/ru/view/patrick-star-dumb-duh-gif-13669009.gif" width="300" height="240" />
 
 
 [![codewars](https://www.codewars.com/users/camp888/badges/large)](https://www.codewars.com/users/camp888)  
