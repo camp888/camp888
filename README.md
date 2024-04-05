@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Header](./banner.png)
+![Header](./banner2.png)
 
 [![codewars](https://www.codewars.com/users/camp888/badges/large)](https://www.codewars.com/users/camp888)  
