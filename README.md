@@ -14,13 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+```
 val me = SoftwareEngineer(
   languages = arrayOf(kotlin, java),
   frameworks = arrayOf(android, jetpack, spring),
   db = postgresql,
   architecture = arrayOf(clean, mv*)
 )
+```
 
 
 [![codewars](https://www.codewars.com/users/camp888/badges/large)](https://www.codewars.com/users/camp888)  
