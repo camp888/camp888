@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-label 1 | label 2
---- | ---
-![]([https://...image1.png](https://tenor.com/ru/view/patrick-star-dumb-duh-gif-13669009.gif)) | ```kotlin
+
+<img src="https://tenor.com/ru/view/patrick-star-dumb-duh-gif-13669009.gif" align="left" width="300" height="200" /> 
+
+```kotlin
 val me = SoftwareEngineer(
   languages = arrayOf(kotlin, java),
   frameworks = arrayOf(
@@ -28,8 +29,6 @@ val me = SoftwareEngineer(
   architecture = arrayOf(clean, mv*)
 )
 ```
-
-<img align="left" src="" width="300" height="200" /> 
 
 
 
