@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 val me = SoftwareEngineer(
   languages = arrayOf(kotlin, java),
   frameworks = arrayOf(
-     android(jetpack, services, managers),
+     android(jetpack, services, managers, di),
      spring(data, security, thymeleaf)
   ),
   db = postgresql,
