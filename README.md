@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![shreks](https://media1.tenor.com/m/NIAp_0tDx7YAAAAC/shrek-smirk.gif)
+![shreks](https://media1.tenor.com/m/NIAp_0tDx7YAAAAC/shrek-smirk.gif)
 
 [![LeetCode user camp888](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fcamp888&logo=leetcode&logoColor=yellow)](https://leetcode.com/camp888/)
 
